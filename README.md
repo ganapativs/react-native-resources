@@ -8,3 +8,4 @@
 * https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux
 * https://github.com/zalmoxisus/remote-redux-devtools
 * https://github.com/gaearon/redux-thunk
+* http://redux.js.org/docs/introduction/Ecosystem.html
