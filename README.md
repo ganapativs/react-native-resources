@@ -10,3 +10,4 @@
 * https://github.com/gaearon/redux-thunk
 * http://redux.js.org/docs/introduction/Ecosystem.html
 * http://www.jchapron.com/2015/08/14/getting-started-with-redux/
+* http://stackoverflow.com/questions/25494365/es6-module-export-options
