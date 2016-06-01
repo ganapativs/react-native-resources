@@ -9,3 +9,4 @@
 * https://github.com/zalmoxisus/remote-redux-devtools
 * https://github.com/gaearon/redux-thunk
 * http://redux.js.org/docs/introduction/Ecosystem.html
+* http://www.jchapron.com/2015/08/14/getting-started-with-redux/
