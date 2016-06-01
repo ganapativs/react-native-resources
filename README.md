@@ -6,3 +6,4 @@
 * https://facebook.github.io/react-native/docs/network.html#content
 * https://davidwalsh.name/fetch
 * https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux
+* https://github.com/zalmoxisus/remote-redux-devtools
