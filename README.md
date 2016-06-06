@@ -12,3 +12,4 @@
 * http://www.jchapron.com/2015/08/14/getting-started-with-redux/
 * http://stackoverflow.com/questions/25494365/es6-module-export-options
 * http://www.gajotres.net/must-have-plugins-for-react-native/
+* https://github.com/skv-headless/react-native-scrollable-tab-view
