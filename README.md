@@ -13,3 +13,4 @@
 * http://stackoverflow.com/questions/25494365/es6-module-export-options
 * http://www.gajotres.net/must-have-plugins-for-react-native/
 * https://github.com/skv-headless/react-native-scrollable-tab-view
+* https://realm.io/docs/react-native/latest/
