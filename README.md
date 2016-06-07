@@ -16,3 +16,4 @@
 * https://realm.io/docs/react-native/latest/
 * https://github.com/wkh237/react-native-fetch-blob
 * https://rnplay.org/apps/6_nkSA
+* https://medium.com/@jvlobo/change-default-launch-screen-in-react-native-ios-app-544f94f1e947#.icch0tbbu
