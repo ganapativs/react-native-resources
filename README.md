@@ -21,3 +21,4 @@
 * https://github.com/brentvatne/react-native-linear-gradient
 * https://github.com/oblador/react-native-animatable
 * http://browniefed.com/react-native-animation-book/
+* https://github.com/FuYaoDe/react-native-app-intro
