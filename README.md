@@ -22,3 +22,4 @@
 * https://github.com/oblador/react-native-animatable
 * http://browniefed.com/react-native-animation-book/
 * https://github.com/FuYaoDe/react-native-app-intro
+* https://facebook.github.io/react-native/docs/android-ui-performance.html
