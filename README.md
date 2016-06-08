@@ -19,3 +19,4 @@
 * https://medium.com/@jvlobo/change-default-launch-screen-in-react-native-ios-app-544f94f1e947#.icch0tbbu
 * https://github.com/remobile/react-native-splashscreen/
 * https://github.com/brentvatne/react-native-linear-gradient
+* https://github.com/oblador/react-native-animatable
