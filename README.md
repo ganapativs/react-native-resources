@@ -25,3 +25,5 @@
 * https://facebook.github.io/react-native/docs/android-ui-performance.html
 * https://gist.github.com/brentvatne/a267d10eabd2d91a8d44
 * https://github.com/root-two/react-native-drawer
+* https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.spcoi763g
+* https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.wulpebrz7
