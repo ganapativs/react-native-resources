@@ -27,3 +27,4 @@
 * https://github.com/root-two/react-native-drawer
 * https://medium.com/@gattermeier/custom-fonts-in-react-native-for-android-b8a331a7d2a7#.spcoi763g
 * https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.wulpebrz7
+* https://www.youtube.com/watch?v=ND8SjPJOk_M&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid
