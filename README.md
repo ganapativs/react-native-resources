@@ -30,3 +30,4 @@
 * https://www.youtube.com/watch?v=ND8SjPJOk_M&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid
 * http://moduscreate.com/react-native-layout-system/
 * https://rnplay.org/apps/6xdsLA
+* https://github.com/refinery29/react-native-cheat-sheet
