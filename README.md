@@ -29,3 +29,4 @@
 * https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.wulpebrz7
 * https://www.youtube.com/watch?v=ND8SjPJOk_M&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid
 * http://moduscreate.com/react-native-layout-system/
+* https://rnplay.org/apps/6xdsLA
