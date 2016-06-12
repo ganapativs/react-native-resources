@@ -31,3 +31,4 @@
 * http://moduscreate.com/react-native-layout-system/
 * https://rnplay.org/apps/6xdsLA
 * https://github.com/refinery29/react-native-cheat-sheet
+* https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.10keuz2os
